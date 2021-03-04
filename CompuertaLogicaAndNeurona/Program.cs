@@ -10,9 +10,10 @@ namespace CompuertaLogicaAndNeurona
     {
         static void Main(string[] args)
         {
-
+            //Generamos pesos aleatorios
             Random valoresPesos = new Random();
 
+            //Declaracion de varibles
             int[,] entradas = { { 1, 1 }, { 1, 0 }, { 0, 1 }, { 0, 0 }};
             int[] salidas = { 1, 0, 0, 0 };
 
@@ -22,7 +23,8 @@ namespace CompuertaLogicaAndNeurona
 
             bool proceso = true;
             int iteracion = 0;
-
+            
+            //proceso donde la neurona aprende 
             while (proceso)
             {
                 iteracion++;
