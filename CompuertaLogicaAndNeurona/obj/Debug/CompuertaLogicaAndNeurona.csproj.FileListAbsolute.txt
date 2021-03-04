@@ -1,0 +1,7 @@
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\bin\Debug\CompuertaLogicaAndNeurona.exe.config
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\bin\Debug\CompuertaLogicaAndNeurona.exe
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\bin\Debug\CompuertaLogicaAndNeurona.pdb
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\obj\Debug\CompuertaLogicaAndNeurona.csprojAssemblyReference.cache
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\obj\Debug\CompuertaLogicaAndNeurona.csproj.CoreCompileInputs.cache
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\obj\Debug\CompuertaLogicaAndNeurona.exe
+C:\Users\dcastanop\source\repos\CompuertaLogicaAndNeurona\CompuertaLogicaAndNeurona\obj\Debug\CompuertaLogicaAndNeurona.pdb
