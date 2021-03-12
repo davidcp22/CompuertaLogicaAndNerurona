@@ -53,6 +53,8 @@ namespace CompuertaLogicaAndNeurona
 
             }
 
+
+            //For con funcion de agregacion
             for (int i = 0; i <= 3; i++)
             {
                 double funcionAgreacion = entradas[i, 0] * p0 + entradas[i, 1] * p1 + 1 * u;
@@ -66,6 +68,7 @@ namespace CompuertaLogicaAndNeurona
                 salidas[i].ToString() + " perceptron: " + salida.ToString());
             }
 
+            //Imprime los pesos encontrados y las iteracioes requeridas
             Console.WriteLine("Pesos encontrados P0= " + p0.ToString() + " P1= " + p1.ToString() + " U= " + u.ToString());
             Console.WriteLine("Iteraciones requeridas: " + iteracion.ToString());
             Console.ReadKey();
